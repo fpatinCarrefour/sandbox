@@ -1,0 +1,1 @@
+addSbtPlugin("com.carrefour.phenix" % "phenix-build" % "1.4.0-RC2")
